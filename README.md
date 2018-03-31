@@ -22,9 +22,13 @@ MenuMonster
 Selecting MenuMonster and using the script would create a class called MenuMonster that has the next variables:
 
 Image foregroundImage;
+
 Image backgroundImage;
+
 Text hitpointsText; 
+
 Text manaText;
+
 
 
 ## Usage
