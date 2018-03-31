@@ -7,11 +7,17 @@ This script adds a function on the editor that creates a class of the selected g
 A gameobject called "MenuMonster" has the next hierarchy
 
 MenuMonster
+
 -Canvas
+
 --Foreground(Image)
+
 --Background(Image)
+
 --Hitpoints(Text)
+
 --Mana(Text)
+
 
 Selecting MenuMonster and using the script would create a class called MenuMonster that has the next variables:
 
